@@ -1,4 +1,4 @@
-## Bibliotecas Utilizadas
+## Bibliotecas Utilizadas aaaaa
 dotenv -> carrega variáveis de ambientes armazenadas no .env, permitindo proteger dados
 express -> utilizado para cirar o servidor HTTP e gerenciar as rotas
 mongoose -> modela e gerencia a comunicação com o MongoDB
